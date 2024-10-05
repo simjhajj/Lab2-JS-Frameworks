@@ -12,3 +12,12 @@ The main goals of this project are:
   - Implementing an advanced function to check for prime numbers.
 
 The application is designed to be run in a Node.js environment, and it showcases the ability to create reusable functions that can be easily imported and utilized in different parts of the code.
+
+
+## Features
+- Modular design using ES6 syntax.
+- Functionality to print personalized messages.
+- Unit conversion capabilities.
+- Basic mathematical computations.
+- Prime number validation.
+
